@@ -24,17 +24,29 @@ Let's connect and build something great together!
 🌐 Socials:
 Static Badge
 
-💻 Tech Stack:
-Tech Stack:
-- AI & Automation
-- Chatbot Development
-- React / Next.js
-- Node.js
-- Python
-- APIs & Integrations
+### 🚀 Tech Stack:
 
----
+#### 💻 Languages & Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,vue,angular,html,css" />
+</p>
 
-### 📊 GitHub Stats
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=yuvrajsol&show_icons=true&theme=radical" /></p>
-✅ Final Step
+#### ⚙️ Backend & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,jquery" />
+</p>
+
+#### ☁️ Cloud & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,firebase,netlify,heroku" />
+</p>
+
+#### 🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,dynamodb" />
+</p>
+
+#### 🧰 Tools & Others
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=npm,yarn,nginx,apache,kafka" />
+</p>
