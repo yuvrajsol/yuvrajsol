@@ -1,18 +1,28 @@
 <h1 align="center">Hi 👋, I'm Yuvraj Solanki</h1>
 <h3 align="center">Growth & Tech Consultant | AI, Web & Mobile Solutions</h3>
-- 🔭 Currently working on AI & Automation Projects  
-- 🌱 Exploring advanced AI systems & SaaS products  
-- 💬 Ask me about AI Chatbots, Web Development, Automation  
-- ⚡ Focused on building scalable tech solutions  
-<p align="left">
-</p>
-### 🚀 Tech Stack:
-- AI & Automation
-- Chatbot Development
-- React / Next.js
-- Node.js
-- Python
-- Firebase / Supabase
-- APIs & Integrations
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=yuvrajsol&show_icons=true&theme=radical" /></p>
-<p><img align="center" src="https://streak-stats.demolab.com?user=yuvrajsol&theme=radical" /></p>
+Welcome to my GitHub profile!
+
+👨‍💻 I'm a Senior Full Stack Developer with a robust background in crafting scalable and efficient web applications using Angular, Python (Django/Flask/FastAPI), Node.js and Nest.js.
+
+🚀 About Me I have a passion for developing user-centric solutions that drive business growth and enhance user experiences. With over 8+ years of experience in the tech industry, I've contributed to numerous projects that have successfully solved complex problems using modern technologies.
+
+💼 What I'm Working On
+
+Developing innovative web apps using Angular.
+Exploring microservices architectures to improve scalability in PHP and Node.js applications.
+🌱 I’m currently learning
+
+Performance optimization in Node.js.
+The latest updates in Angular 18.
+📝 I'm available for:
+
+Freelance projects
+Long-term collaborations
+Remote work opportunities
+Let's connect and build something great together!
+
+🌐 Socials:
+Static Badge
+
+💻 Tech Stack:
+JavaScript TypeScript AWS Heroku Netlify Firebase Google Cloud Datadog Azure Static Badge Angular Angular.js Apache Kafka Apollo-GraphQL Express.js Next JS NestJS NPM JWT jQuery NodeJS React Redux vuejs Yarn Three js WebGL Ngnix Apache AmazonDynamoDB Postgres MySQL MongoDB ElasticSearch Postman Swagger
