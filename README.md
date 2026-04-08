@@ -1,16 +1,19 @@
-## Hi there 👋
-
-<!--
-**yuvrajsol/yuvrajsol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Hi 👋, I'm Yuvraj Solanki</h1>
+<h3 align="center">Growth & Tech Consultant | AI, Web & Mobile Solutions</h3>
+- 🔭 Currently working on AI & Automation Projects  
+- 🌱 Exploring advanced AI systems & SaaS products  
+- 💬 Ask me about AI Chatbots, Web Development, Automation  
+- ⚡ Focused on building scalable tech solutions  
+<p align="left">
+<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank">LinkedIn</a>
+</p>
+### 🚀 Tech Stack:
+- AI & Automation
+- Chatbot Development
+- React / Next.js
+- Node.js
+- Python
+- Firebase / Supabase
+- APIs & Integrations
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=yuvrajsol&show_icons=true&theme=radical" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=yuvrajsol&theme=radical" /></p>
