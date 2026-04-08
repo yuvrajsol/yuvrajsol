@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yuvraj Solanki</h1>
 <h3 align="center">Growth & Tech Consultant | AI, Web & Mobile Solutions</h3>
+
 Welcome to my GitHub profile!
 
 I'm a Senior Full Stack Developer with a robust background in crafting scalable and efficient web applications using Angular, Python (Django/Flask/FastAPI), Node.js and Nest.js.
@@ -24,7 +25,7 @@ Let's connect and build something great together!
 🌐 Socials:
 Static Badge
 
-### 🚀 Tech Stack:
+###  Tech Stack:
 
 #### 💻 Languages & Frontend
 <p align="left">
