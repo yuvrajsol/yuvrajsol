@@ -5,7 +5,6 @@
 - 💬 Ask me about AI Chatbots, Web Development, Automation  
 - ⚡ Focused on building scalable tech solutions  
 <p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank">LinkedIn</a>
 </p>
 ### 🚀 Tech Stack:
 - AI & Automation
