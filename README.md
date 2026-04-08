@@ -25,4 +25,16 @@ Let's connect and build something great together!
 Static Badge
 
 💻 Tech Stack:
-JavaScript TypeScript AWS Heroku Netlify Firebase Google Cloud Datadog Azure Static Badge Angular Angular.js Apache Kafka Apollo-GraphQL Express.js Next JS NestJS NPM JWT jQuery NodeJS React Redux vuejs Yarn Three js WebGL Ngnix Apache AmazonDynamoDB Postgres MySQL MongoDB ElasticSearch Postman Swagger
+Tech Stack:
+- AI & Automation
+- Chatbot Development
+- React / Next.js
+- Node.js
+- Python
+- APIs & Integrations
+
+---
+
+### 📊 GitHub Stats
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=yuvrajsol&show_icons=true&theme=radical" /></p>
+✅ Final Step
